@@ -2,7 +2,7 @@
 ۱. کلون کردن پروژه
 bash
 
-git clone https://github.com/your-repo/uploader-bot.git
+git clone https://github.com/13sizdah/uploader-bot.git
 
 cd uploader-bot
 
