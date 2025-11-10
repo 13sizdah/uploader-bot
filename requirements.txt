@@ -1,0 +1,23 @@
+# Pyrogram - کتابخانه اصلی ربات
+pyrogram==2.0.106
+TgCrypto==1.2.5
+
+# Database
+aiosqlite==0.19.0
+
+# Payments
+aiohttp==3.9.1
+
+# Utils
+python-dotenv==1.0.0
+pillow==10.1.0
+
+# Crypto (اختیاری برای TON/TRON)
+cryptography==41.0.7
+base58==2.1.1
+
+# Cache
+cachetools==5.3.2
+
+# Logging
+colorlog==6.8.0
